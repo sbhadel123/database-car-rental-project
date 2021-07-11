@@ -1,2 +1,2 @@
 # database-car-rental-project
-Check Readme.docx
+Check Readme.docx in Code
